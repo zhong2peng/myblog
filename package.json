@@ -27,6 +27,6 @@
     "hexo-wordcount": "^6.0.1"
   },
   "devDependencies": {
-    "open": "^0.0.5"
+    "open": "^6.0.0"
   }
 }
